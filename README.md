@@ -1,5 +1,7 @@
 # UAV Security Research
-# - Fall 2024 Semester Research Project under Dr. Jian Wang, Chair of Cybersecurity, at University of Tennessee - Martin
+
+# - Fall 2024 Semester Research Project
+# - Supervised with Dr. Jian Wang, Chair of Cybersecurity, at University of Tennessee - Martin
 
 ------------------------
 # Abstract
